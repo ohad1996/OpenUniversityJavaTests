@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class classtime here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class b2019m93
 {
     /*public static int shortestRoad (int [] road1, int [] road2){
@@ -120,29 +113,5 @@ public class b2019m93
         int [] a = {5,4,2,1,3};
         //System.out.println(shortestRoad(road1,road2) );
         System.out.println(isSum(a,17));
-    }
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    }    
 }
